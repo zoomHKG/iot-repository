@@ -15,13 +15,13 @@ IoT App Repository
 
 **VALUE**:       An object with the following keys
 
-  **device**:           The device for which the binary is built for.
+    **device**:           The device for which the binary is built for.
 
-  **version**:          The app version.
+    **version**:          The app version.
 
-  **url**:              The URL to the binary file of your app.
+    **url**:              The URL to the binary file of your app.
 
-  **description**:      A brief description about your project.
+    **description**:      A brief description about your project.
 
 ### IMPORTANT
 
