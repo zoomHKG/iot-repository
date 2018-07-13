@@ -11,9 +11,9 @@ IoT App Repository
 
 ### Repository JSON structure
 
-    **KEY**:         The project name. (e.g.: "temp-sensor" would give your app URL /temp-sensor)
+    KEY:         The project name. (e.g.: "temp-sensor" would give your app URL /temp-sensor)
 
-    **VALUE**:       An object with the following keys
+    VALUE:       An object with the following keys
 
         device:           The device for which the binary is built for.
 
