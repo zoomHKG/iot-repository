@@ -9,19 +9,19 @@ IoT App Repository
 * Push your changes to your repository
 * Submit a pull request
 
-### apps.json structure
+### Repository JSON structure
 
-**KEY**:         The project name. (e.g.: "temp-sensor" would give your app URL /temp-sensor)
+    **KEY**:         The project name. (e.g.: "temp-sensor" would give your app URL /temp-sensor)
 
-**VALUE**:       An object with the following keys
+    **VALUE**:       An object with the following keys
 
-    device:           The device for which the binary is built for.
+        device:           The device for which the binary is built for.
 
-    version:          The app version.
+        version:          The app version.
 
-    url:              The URL to the binary file of your app.
+        url:              The URL to the binary file of your app.
 
-    description:      A brief description about your project.
+        description:      A brief description about your project.
 
 ### IMPORTANT
 
