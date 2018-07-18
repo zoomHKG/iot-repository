@@ -1,0 +1,14 @@
+language: python
+python:
+  - "3.4"
+script:
+  - python -m json.tool < apps.json
+notifications:
+  email:
+    on_success: change
+    on_failure: change
+  webhooks:
+    urls:
+      - https://iot-repository-app.herokuapp.com/api/repo/update
+    on_success: always
+    on_failure: never

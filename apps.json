@@ -1,4 +1,10 @@
 {
+  "alexis": {
+    "device": "esp8266",
+    "version": "v0.0.1",
+    "url": "https://github.com/rpidanny/assets/raw/master/iot-apps/Alexis-esp8266.bin",
+    "description": "Dynamically Configurable Automation Node"
+  },
   "test": {
     "device": "esp8266",
     "version": "v0.0.1",
