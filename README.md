@@ -1,6 +1,6 @@
 # iot-repository
 
-IoT App Repository
+IoT App Repository [![Build Status](https://travis-ci.org/zoomHKG/iot-repository.svg?branch=master)](https://travis-ci.org/zoomHKG/iot-repository)
 
 ## Adding Apps to the repository
 
